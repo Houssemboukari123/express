@@ -1,0 +1,25 @@
+{
+  "name": "expressrouting",
+  "version": "1.0.0",
+  "description": "express",
+  "main": "index.js",
+  "scripts": {
+    "test": "express"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Houssemboukari123/express.git"
+  },
+  "keywords": [
+    "keyword"
+  ],
+  "author": "Housem Boukeri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Houssemboukari123/express/issues"
+  },
+  "homepage": "https://github.com/Houssemboukari123/express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
